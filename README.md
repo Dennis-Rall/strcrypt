@@ -9,4 +9,4 @@ See [ArjanCodes Shellroast](https://github.com/ArjanCodes/examples/tree/main/202
     - own shell is overhead
     - piping commands can be supported (TODO example)
     - auto completion can be enabled (TODO)
-- Generalize hashing, encodding and decoding algorithms
+- Add tests with hypothesis
